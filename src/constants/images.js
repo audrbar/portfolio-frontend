@@ -18,6 +18,8 @@ import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 import nextjs from '../assets/nextjs.png';
+import agentic from '../assets/agentic.png';
+import ai from '../assets/ai.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -70,5 +72,7 @@ export default {
   nb,
   skype,
   spotify,
-  nextjs
+  nextjs,
+  agentic,
+  ai
 };

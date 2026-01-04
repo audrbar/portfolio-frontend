@@ -279,6 +279,10 @@ This project is private and not licensed for public use.
 
 This is a personal portfolio project. Feel free to use it as inspiration for your own portfolio!
 
+## Acknowledgements
+
+-   [**JavaScript Mastery** Build and Deploy a Fullstack Responsive Portfolio Website](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&t=373s)
+
 ---
 
 **Built with Create React App** | **Powered by Sanity CMS**
